@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "kakunee",
+    "customModelName": "Normal",
+    "name": "Kakune",
+    "creativeTab": {
+      "value": "CUSTOM:TokyoGhoul"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.5,
+    "damageCount": 0,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 10.0,
+    "specialInfo": [
+      "Kakune!"
+    ],
+    "hasGlow": false
+  }
+}

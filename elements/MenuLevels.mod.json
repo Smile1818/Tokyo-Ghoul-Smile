@@ -1,0 +1,263 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 350,
+    "height": 392,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "RC:<VAR:RC>",
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "name": "RC:<VAR:RC>",
+          "x": 264,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Points:",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "Points:",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Points>",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Points>",
+          "x": 336,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Speed:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Speed:",
+          "x": 313,
+          "y": 142
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Speed>",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Speed>",
+          "x": 374,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "OnClickSpeed"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "+",
+          "x": 282,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "OnClickStrenght"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "+",
+          "x": 282,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Strenght:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Strenght:",
+          "x": 313,
+          "y": 198
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Sila>",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Sila>",
+          "x": 407,
+          "y": 201
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "OnClickHealth"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "+",
+          "x": 282,
+          "y": 240
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Health:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Health:",
+          "x": 313,
+          "y": 252
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:hp>",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "<VAR:hp>",
+          "x": 382,
+          "y": 253
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Kagune Type:",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "Kagune Type:",
+          "x": 264,
+          "y": 312
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:KaguneType>",
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "name": "<VAR:KaguneType>",
+          "x": 372,
+          "y": 312
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Rang:",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "Rang:",
+          "x": 462,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Rang>",
+          "color": {
+            "value": -6750208,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Rang>",
+          "x": 498,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Skills",
+          "onClick": {
+            "name": "OpenSkils"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Skills",
+          "x": 354,
+          "y": 384
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Kagune Name:",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "Kagune Name:",
+          "x": 264,
+          "y": 348
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:KaguneName>",
+          "color": {
+            "value": -3407872,
+            "falpha": 0.0
+          },
+          "name": "<VAR:KaguneName>",
+          "x": 372,
+          "y": 348
+        }
+      }
+    ]
+  }
+}

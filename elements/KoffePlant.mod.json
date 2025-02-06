@@ -1,0 +1,42 @@
+{
+  "_fv": 6,
+  "_type": "plant",
+  "definition": {
+    "renderType": 2,
+    "texture": "koffe1",
+    "customModelName": "plant:default",
+    "plantType": "normal",
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 2,
+    "name": "Koffe Plant",
+    "creativeTab": {
+      "value": "CUSTOM:TokyoGhoul"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "CUSTOM:KoffePlant"
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "colorOnMap": "GRASS",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [],
+    "onTickUpdate": {
+      "name": "Plantkoffe"
+    }
+  }
+}

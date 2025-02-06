@@ -1,0 +1,210 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 350,
+    "height": 392,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "CCGXP:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "CCGXP:",
+          "x": 264,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:RC>",
+          "color": {
+            "value": -16751002,
+            "falpha": 0.0
+          },
+          "name": "<VAR:RC>",
+          "x": 326,
+          "y": 63
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Points:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Points:",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Points>",
+          "color": {
+            "value": -16751002,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Points>",
+          "x": 336,
+          "y": 99
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Speed:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Speed:",
+          "x": 313,
+          "y": 142
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Speed>",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Speed>",
+          "x": 374,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "OnClickSpeed"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "+",
+          "x": 282,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "OnClickStrenght"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "+",
+          "x": 282,
+          "y": 186
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Strenght:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Strenght:",
+          "x": 313,
+          "y": 198
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Sila>",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Sila>",
+          "x": 407,
+          "y": 201
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "+",
+          "onClick": {
+            "name": "OnClickHealth"
+          },
+          "width": 20,
+          "height": 40,
+          "name": "+",
+          "x": 282,
+          "y": 240
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Health:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Health:",
+          "x": 313,
+          "y": 252
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:hp>",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "<VAR:hp>",
+          "x": 382,
+          "y": 253
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Rang:",
+          "color": {
+            "value": -16764109,
+            "falpha": 0.0
+          },
+          "name": "Rang:",
+          "x": 462,
+          "y": 60
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "<VAR:Rang>",
+          "color": {
+            "value": -16751002,
+            "falpha": 0.0
+          },
+          "name": "<VAR:Rang>",
+          "x": 498,
+          "y": 60
+        }
+      }
+    ]
+  }
+}

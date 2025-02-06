@@ -1,0 +1,98 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 340,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Cup"
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 282,
+          "y": 132
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Koffe2"
+          },
+          "id": 3,
+          "name": "Slot #3",
+          "x": 390,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Cup",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Cup",
+          "x": 282,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Koffe",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Koffe",
+          "x": 390,
+          "y": 96
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "name": "Slot #0",
+          "x": 534,
+          "y": 132
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Water:<VAR:water>",
+          "color": {
+            "value": -16750849,
+            "falpha": 0.0
+          },
+          "name": "Water:<VAR:water>",
+          "x": 259,
+          "y": 176
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Go",
+          "onClick": {
+            "name": "CreateKoffe"
+          },
+          "width": 40,
+          "height": 40,
+          "name": "Go",
+          "x": 462,
+          "y": 132
+        }
+      }
+    ]
+  }
+}
