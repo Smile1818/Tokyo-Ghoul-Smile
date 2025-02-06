@@ -1,0 +1,7 @@
+{
+  "_fv": 6,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" inline=\"false\" deletable=\"false\" x=\"98\" y=\"140\"><field name=\"trigger\">Player right clicks on entity</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"logic_entity_compare\"><field name=\"entity\">EntityVillager</field><value name=\"compareTo\"><block type=\"entity_from_deps\"/></value></block></value><statement name=\"DO0\"><block type=\"deal_damage\"><field name=\"damagesource\">GENERIC</field><value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">2</field></block></value></block></statement><next><block type=\"cancel_event\"><next><block type=\"call_procedure\"><field name=\"procedure\">Pitanie3</field></block></next></block></next></block></next></block><block type=\"logic_entity_compare\" x=\"326\" y=\"433\"><field name=\"entity\">EntityVillager</field><value name=\"compareTo\"><block type=\"entity_from_deps\"/></value></block><block type=\"deal_damage\" x=\"608\" y=\"463\"><field name=\"damagesource\">GENERIC</field><value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">2</field></block></value><next><block type=\"call_procedure\"><field name=\"procedure\">Pitanie3</field></block></next></block><block type=\"entity_has_achievement\" x=\"205\" y=\"591\"><field name=\"achievement\">CUSTOM:Welcomeghoul</field></block></xml>"
+  }
+}
