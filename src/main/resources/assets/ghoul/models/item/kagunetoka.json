@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/kagunetokav1new",
+  "textures": {
+    "0": "ghoul:blocks/kagunenokav1new"
+  }
+}

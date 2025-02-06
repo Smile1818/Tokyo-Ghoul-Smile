@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/k7",
+  "textures": {
+    "missing": "ghoul:blocks/customkagune_animation0"
+  }
+}

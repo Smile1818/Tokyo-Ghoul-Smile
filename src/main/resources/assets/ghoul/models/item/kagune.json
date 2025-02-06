@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/kanekikagunev1",
+  "textures": {
+    "0": "ghoul:blocks/kagune_kaneki_v1"
+  }
+}

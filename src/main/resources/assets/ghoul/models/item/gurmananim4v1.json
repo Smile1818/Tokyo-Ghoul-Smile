@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/g4",
+  "textures": {
+    "0": "ghoul:blocks/g"
+  }
+}

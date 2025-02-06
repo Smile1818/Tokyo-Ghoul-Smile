@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/shot5",
+  "textures": {
+    "0": "ghoul:blocks/shot5"
+  }
+}

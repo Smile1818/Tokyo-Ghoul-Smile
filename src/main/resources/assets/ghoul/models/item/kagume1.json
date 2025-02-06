@@ -1,0 +1,7 @@
+{
+  "parent": "ghoul:custom/customkagune_animation2",
+  "textures": {
+    "0": "ghoul:blocks/customkagune_animation0",
+    "1": "ghoul:blocks/customkagune_animation0"
+  }
+}

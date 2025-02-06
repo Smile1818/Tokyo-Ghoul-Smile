@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/quinquekase",
+  "textures": {
+    "0": "ghoul:blocks/ase1"
+  }
+}

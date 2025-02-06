@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/bkofenokofe",
+  "textures": {
+    "0": "ghoul:blocks/nokofe"
+  }
+}

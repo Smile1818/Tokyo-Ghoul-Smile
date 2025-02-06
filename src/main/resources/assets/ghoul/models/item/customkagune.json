@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/customkagune",
+  "textures": {
+    "0": "ghoul:blocks/ustomagune"
+  }
+}

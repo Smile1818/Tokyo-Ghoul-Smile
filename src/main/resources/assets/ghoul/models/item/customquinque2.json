@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/quinque_custom2",
+  "textures": {
+    "0": "ghoul:blocks/quinque_cusom2"
+  }
+}

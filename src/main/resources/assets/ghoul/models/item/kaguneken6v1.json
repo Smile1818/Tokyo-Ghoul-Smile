@@ -1,0 +1,6 @@
+{
+  "parent": "ghoul:custom/k6",
+  "textures": {
+    "0": "ghoul:blocks/customkagune_animation0"
+  }
+}
