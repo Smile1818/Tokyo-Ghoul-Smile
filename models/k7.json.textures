@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "customkagune_animation0"
+      },
+      "name": "default"
+    }
+  }
+}

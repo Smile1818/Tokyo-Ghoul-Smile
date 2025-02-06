@@ -1,0 +1,87 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"elements": [
+		{
+			"from": [7.35, 0.33, 7.8],
+			"to": [7.8, 0.78, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 0, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 5, 0.5], "texture": "#missing"},
+				"east": {"uv": [0.5, 4.5, 1, 5], "texture": "#missing"},
+				"south": {"uv": [4.5, 0.5, 5, 1], "texture": "#missing"},
+				"west": {"uv": [1, 4.5, 1.5, 5], "texture": "#missing"},
+				"up": {"uv": [5, 1.5, 4.5, 1], "texture": "#missing"},
+				"down": {"uv": [2, 4.5, 1.5, 5], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [7.05, 0, 7.4],
+			"to": [8.05, 1, 7.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 7]},
+			"faces": {
+				"north": {"uv": [6.5, 0.5, 7, 1], "texture": "#missing"},
+				"east": {"uv": [1, 6.5, 1.5, 7], "texture": "#missing"},
+				"south": {"uv": [6.5, 1, 7, 1.5], "texture": "#missing"},
+				"west": {"uv": [1.5, 6.5, 2, 7], "texture": "#missing"},
+				"up": {"uv": [7, 2, 6.5, 1.5], "texture": "#missing"},
+				"down": {"uv": [2.5, 6.5, 2, 7], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [73.41, 1.8, -9.15],
+			"translation": [0.5, 2.25, 32.5],
+			"scale": [4, 4, 4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [73, 0, 5],
+			"translation": [-10, 2.75, 32],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_righthand": {
+			"rotation": [4, 2, -3],
+			"translation": [-4, 26, 4.75],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 4],
+			"translation": [-15, 25, 3.25],
+			"scale": [4, 4, 4]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"gui": {
+			"rotation": [-24, 13, 6],
+			"translation": [0, 4.5, 0]
+		},
+		"fixed": {
+			"rotation": [-13, -1, -5],
+			"translation": [0.75, 24.25, -21],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "Кагуне",
+			"origin": [8, 8, 8],
+			"color": 3,
+			"children": [
+				{
+					"name": "Кагуне2",
+					"origin": [8, 8, 8],
+					"color": 3,
+					"children": [0]
+				},
+				{
+					"name": "Кагуне1",
+					"origin": [8, 8, 8],
+					"color": 3,
+					"children": [1]
+				}
+			]
+		}
+	]
+}

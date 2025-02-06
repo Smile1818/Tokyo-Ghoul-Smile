@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "customkagune_animation0",
+        "1": "customkagune_animation0"
+      },
+      "name": "default"
+    }
+  }
+}
