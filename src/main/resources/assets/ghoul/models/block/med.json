@@ -1,0 +1,8 @@
+{
+  "parent": "ghoul:custom/med",
+  "textures": {
+    "all": "ghoul:blocks/med",
+    "particle": "ghoul:blocks/med",
+    "0": "ghoul:blocks/med"
+  }
+}

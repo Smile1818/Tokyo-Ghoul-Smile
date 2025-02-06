@@ -1,0 +1,8 @@
+{
+  "parent": "ghoul:custom/quinque",
+  "textures": {
+    "all": "ghoul:blocks/vinky1",
+    "particle": "ghoul:blocks/vinky1",
+    "0": "ghoul:blocks/vinky1"
+  }
+}

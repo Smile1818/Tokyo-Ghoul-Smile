@@ -1,0 +1,8 @@
+{
+  "parent": "ghoul:custom/pullover",
+  "textures": {
+    "all": "ghoul:blocks/pullover",
+    "particle": "ghoul:blocks/pullover",
+    "0": "ghoul:blocks/pullover"
+  }
+}

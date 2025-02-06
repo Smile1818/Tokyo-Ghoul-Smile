@@ -1,0 +1,8 @@
+{
+  "parent": "ghoul:custom/shotpz5",
+  "textures": {
+    "all": "ghoul:blocks/shot5",
+    "particle": "ghoul:blocks/shot5",
+    "0": "ghoul:blocks/stotpf5"
+  }
+}

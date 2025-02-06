@@ -1,0 +1,8 @@
+{
+  "parent": "ghoul:custom/plant",
+  "textures": {
+    "all": "ghoul:blocks/koffe1",
+    "particle": "ghoul:blocks/koffe1",
+    "0": "ghoul:blocks/plant"
+  }
+}
