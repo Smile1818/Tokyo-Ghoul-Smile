@@ -1,0 +1,27 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "title": {
+      "translate": "advancements.ccgrangd.title"
+    },
+    "description": {
+      "translate": "advancements.ccgrangd.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ccgrangd": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

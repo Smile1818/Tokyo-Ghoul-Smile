@@ -1,0 +1,19 @@
+{
+  "group": "ghoul",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ghoul:ghoulflesh"
+    },
+    {
+      "item": "minecraft:crafting_table"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "ghoul:quinquecreator",
+    "count": 1
+  }
+}

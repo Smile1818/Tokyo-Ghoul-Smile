@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghoul:shot"
+    },
+    "title": {
+      "translate": "advancements.advtoka.title"
+    },
+    "description": {
+      "translate": "advancements.advtoka.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "advtoka": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "ghoul:welcomeghoul"
+}

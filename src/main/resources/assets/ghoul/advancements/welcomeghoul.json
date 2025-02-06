@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghoul:kakune"
+    },
+    "title": {
+      "translate": "advancements.welcomeghoul.title"
+    },
+    "description": {
+      "translate": "advancements.welcomeghoul.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "welcomeghoul": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "ghoul:advghoul"
+}

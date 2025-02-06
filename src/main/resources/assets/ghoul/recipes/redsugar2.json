@@ -1,0 +1,22 @@
+{
+  "group": "ghoul",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "ghoul:apieceofhumanflesh"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "ghoul:redsugar",
+    "count": 3
+  }
+}

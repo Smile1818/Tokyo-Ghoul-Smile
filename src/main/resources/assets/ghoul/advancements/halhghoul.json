@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghoul:halhghouleyelhelmet"
+    },
+    "title": {
+      "translate": "advancements.halhghoul.title"
+    },
+    "description": {
+      "translate": "advancements.halhghoul.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "halhghoul": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "ghoul:advghoul"
+}

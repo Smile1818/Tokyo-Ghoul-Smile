@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghoul:customkagune"
+    },
+    "title": {
+      "translate": "advancements.customkaguneadv.title"
+    },
+    "description": {
+      "translate": "advancements.customkaguneadv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "customkaguneadv": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "ghoul:welcomeghoul"
+}

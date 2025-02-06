@@ -1,0 +1,13 @@
+{
+  "group": "ghoul",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ghoul:ploti"
+    }
+  ],
+  "result": {
+    "item": "ghoul:apieceofhumanflesh",
+    "count": 4
+  }
+}

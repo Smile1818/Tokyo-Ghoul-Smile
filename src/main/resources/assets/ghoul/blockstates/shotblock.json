@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "ghoul:shotblock"
+    },
+    "facing=north": {
+      "model": "ghoul:shotblock"
+    },
+    "facing=east": {
+      "model": "ghoul:shotblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "ghoul:shotblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ghoul:shotblock",
+      "y": 270
+    }
+  }
+}

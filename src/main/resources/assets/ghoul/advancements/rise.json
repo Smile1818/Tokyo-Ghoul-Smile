@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ghoul:kagune"
+    },
+    "title": {
+      "translate": "advancements.rise.title"
+    },
+    "description": {
+      "translate": "advancements.rise.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "rise": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "ghoul:welcomeghoul"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "ghoul",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "minecraft:clay_ball"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "ghoul:cup",
+    "count": 3
+  }
+}

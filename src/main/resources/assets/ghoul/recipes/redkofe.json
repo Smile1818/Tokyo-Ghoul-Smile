@@ -1,0 +1,16 @@
+{
+  "group": "ghoul",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ghoul:redsugar"
+    },
+    {
+      "item": "ghoul:cupofkoffe"
+    }
+  ],
+  "result": {
+    "item": "ghoul:cupofcoffee",
+    "count": 1
+  }
+}
