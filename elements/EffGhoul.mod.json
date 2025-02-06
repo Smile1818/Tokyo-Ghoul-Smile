@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Ghoul",
+    "effectName": "Ghoul",
+    "icon": "kakunee.png",
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "registerPotionType": false,
+    "curativeItems": [
+      {
+        "value": "CUSTOM:KakuneNul"
+      }
+    ],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "EfGhoul"
+    }
+  }
+}

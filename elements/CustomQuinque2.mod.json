@@ -1,0 +1,26 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "“  4",
+    "customModelName": "quinque_custom2:default",
+    "name": "Custom Quinque",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "onRightClickedInAir": {
+      "name": "Q4ToKase"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "urmantiekstura1",
+    "customModelName": "gurman1:default",
+    "name": "Gurman Kagune",
+    "creativeTab": {
+      "value": "CUSTOM:TokyoGhoul"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 3.0,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

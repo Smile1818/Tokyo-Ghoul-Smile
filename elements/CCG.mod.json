@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "CCG",
+    "effectName": "CCG",
+    "icon": "vinky1.png",
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "registerPotionType": true,
+    "curativeItems": [
+      {
+        "value": "CUSTOM:KakuneNul"
+      }
+    ],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "CCGEff1"
+    }
+  }
+}

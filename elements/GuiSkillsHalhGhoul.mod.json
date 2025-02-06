@@ -1,0 +1,79 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 376,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "kaguneoffs.png",
+          "name": "kaguneoffs.png",
+          "x": 264,
+          "y": 96
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "3 Points",
+          "color": {
+            "value": -9175040,
+            "falpha": 0.0
+          },
+          "name": "3 Points",
+          "x": 390,
+          "y": 114
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Skills",
+          "color": {
+            "value": -9175040,
+            "falpha": 0.0
+          },
+          "name": "Skills",
+          "x": 390,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "use",
+          "onClick": {
+            "name": "GhoulUseKagune"
+          },
+          "width": 60,
+          "height": 40,
+          "name": "use",
+          "x": 516,
+          "y": 114
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "i.png",
+          "name": "i.png",
+          "x": 250,
+          "y": 168
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "i.png",
+          "name": "i.png",
+          "x": 250,
+          "y": 78
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 464,
+    "height": 100,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Do you want to become a CCG Investigator?",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "Do you want to become a CCG Investigator?",
+          "x": 228,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Yes",
+          "onClick": {
+            "name": "OnClickYes"
+          },
+          "width": 60,
+          "height": 40,
+          "name": "Yes",
+          "x": 444,
+          "y": 240
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "No",
+          "onClick": {
+            "name": "OnClickNO"
+          },
+          "width": 40,
+          "height": 40,
+          "name": "No",
+          "x": 336,
+          "y": 240
+        }
+      }
+    ]
+  }
+}

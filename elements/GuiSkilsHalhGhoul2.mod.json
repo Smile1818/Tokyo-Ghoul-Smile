@@ -1,0 +1,52 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 376,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Skills",
+          "color": {
+            "value": -9175040,
+            "falpha": 0.0
+          },
+          "name": "Skills",
+          "x": 390,
+          "y": 60
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "i.png",
+          "name": "i.png",
+          "x": 250,
+          "y": 168
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "i.png",
+          "name": "i.png",
+          "x": 250,
+          "y": 78
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "kaguneons.png",
+          "name": "kaguneons.png",
+          "x": 264,
+          "y": 96
+        }
+      }
+    ]
+  }
+}

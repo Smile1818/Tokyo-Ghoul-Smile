@@ -1,0 +1,81 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Gui tokyo ghoul",
+          "color": {
+            "value": -10092391,
+            "falpha": 0.0
+          },
+          "name": "Gui tokyo ghoul",
+          "x": 336,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rise",
+          "onClick": {
+            "name": "Gui"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "Rise",
+          "x": 282,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Touka",
+          "onClick": {
+            "name": "Toka"
+          },
+          "width": 100,
+          "height": 40,
+          "name": "Touka",
+          "x": 444,
+          "y": 132
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gurman",
+          "onClick": {
+            "name": "GurmanKey"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Gurman",
+          "x": 282,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Custom",
+          "onClick": {
+            "name": "CustomKaguneKey"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "Custom",
+          "x": 444,
+          "y": 204
+        }
+      }
+    ]
+  }
+}

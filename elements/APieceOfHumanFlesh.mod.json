@@ -1,0 +1,24 @@
+{
+  "_fv": 6,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "apieceofhumanflesh",
+    "customModelName": "Normal",
+    "name": "A Piece Of Human Flesh",
+    "creativeTab": {
+      "value": "CUSTOM:TokyoGhoul"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 10,
+    "saturation": 1.0,
+    "eatingSpeed": 3,
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "Eff2"
+    }
+  }
+}

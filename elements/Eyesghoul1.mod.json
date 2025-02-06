@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "pysto",
+    "enableBody": false,
+    "textureBody": "pysto",
+    "enableLeggings": false,
+    "textureLeggings": "",
+    "enableBoots": false,
+    "textureBoots": "",
+    "creativeTab": {
+      "value": "CUSTOM:TokyoGhoul"
+    },
+    "armorTextureFile": "armor1",
+    "helmetName": "Ghoul eyes",
+    "bodyName": "Eyesghoul1 Body",
+    "leggingsName": "Eyesghoul1 Leggings",
+    "bootsName": "Eyesghoul1 Boots",
+    "helmetModelName": "Modeleyesghoulcom",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "eyesghoul1.png",
+    "bodyModelName": "Modeleyesghoulcom",
+    "bodyModelPart": "Head",
+    "bodyModelTexture": "eyesghoul1.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 0,
+    "damageValueBody": 0,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}
